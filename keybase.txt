@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/wbbradley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zionlang.org
+  * I am wbbradley (https://keybase.io/wbbradley) on keybase.
+  * I have a public key ASCIXdU07pOac3AbtA7Z6XIlVHEGtiefU_l5hsx9DDvmFgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bd08d0ccbc7498b35a47e1ba2f2c361bab6a71c7786b050b39baff0d51ace18c0a",
+      "host": "keybase.io",
+      "kid": "0120885dd534ee939a73701bb40ed9e97225547106b6279f53f97986cc7d0c3be6160a",
+      "uid": "60069c6734911393d495b9959afdb919",
+      "username": "wbbradley"
+    },
+    "merkle_root": {
+      "ctime": 1567561114,
+      "hash": "7b19e55606d2a0eb9c7546465a4d5daaac720a0da90dc55e636739489dee0c33db600d43437189b9a9afc8bd595b9d1b181b0f7a3cf45931e546bb3dd8d15f49",
+      "hash_meta": "5bd79c2828aaa24b0efd69325f9744a02823883b941e3f5d014a9b066259157b",
+      "seqno": 6164470
+    },
+    "service": {
+      "entropy": "XGQStaE/kj6Y88MfPjutARIE",
+      "hostname": "zionlang.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1567561162,
+  "expire_in": 504576000,
+  "prev": "3a82ed36a646c1857c621b95bb0053e69642057994e592dc79670c558a2926bd",
+  "seqno": 82,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiF3VNO6TmnNwG7QO2elyJVRxBrYnn1P5eYbMfQw75hYKp3BheWxvYWTESpcCUsQgOoLtNqZGwYV8YhuVuwBT5pZCBXmU5ZLceWcMVYopJr3EIBYhQqMu+G7nsxtaz+pJupBb8JS3FlA6nrhyPIyCJkjMAgHCo3NpZ8RAeRpgzDwmuxbcijNSI3ATxzrvZn7D2TF6/gYlVJohk2UgWSwOqPRIiwWpjGrsF2Wp2FZkTbGMmOTOHHms6et3B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKWJajOLiCSEEpfJHtdl/281XQieUomO0Dex/5vwXslho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wbbradley
+
+==================================================================
